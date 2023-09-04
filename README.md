@@ -1,2 +1,2 @@
 # LoadingScreen
-Simple website loading screen created with HTML and CSS.
+Simple website animated loading screen created with HTML and CSS.
